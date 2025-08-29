@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Aviral 👋
 
 
 - 🔭 I’m currently working on Business Intelligence and Data Analytics
