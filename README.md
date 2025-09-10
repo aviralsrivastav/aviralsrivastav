@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Business Intelligence and Data Analytics
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Data Analytics
+- 👯 I’m looking to collaborate on Public Speaking
 
 <!--
 **aviralsrivastav/aviralsrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
